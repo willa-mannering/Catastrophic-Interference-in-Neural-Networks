@@ -1,0 +1,1 @@
+The goal of this experiment was to test how catastrophic interference affected the final semantic representations of word2vec. We found that in both the artificial and natural language corpora, word2vec is significantly affected by catastrophic interference.
